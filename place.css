@@ -1,0 +1,31 @@
+h1,h2{
+    border-bottom: 2px salmon solid;
+    border-top: 2px sandybrown solid;
+    border-radius: 10px;
+    text-align: center;
+    color: pink;
+    padding: 5px;
+}
+
+p,div.joya{
+    font-size: larger;
+    border: 2px PINK solid;
+    padding: 20px;
+    color: white;
+}
+
+div > p{
+    color: white;
+}
+
+div > h1{
+    color: pink;
+}
+
+body{
+    background-color: gray;
+}
+
+img{
+    border: 2px white dashed;
+}
